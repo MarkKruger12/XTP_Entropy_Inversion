@@ -1,11 +1,1 @@
-cff-version: 1.2.0 
-message: "If you use these results, please cite as:" 
-authors: 
-  - family-names: "Kruger" 
-    given-names: "Mark David Louise" 
-title: "Entropy Inversion via 4D Topological Export: COP=4.17, 5000A Pulsed N52 Array" 
-version: 1.0.0 
-date-released: 2026-04-22 
-doi: 10.5281/zenodo.XXXXX 
-repository: "https://github.com/MarkKruger12/XTP_Entropy_Inversion" 
-license: "Proprietary - XTP Technologies / Galalith Bioplastics" 
+doi: 10.5281/zenodo.19686698 

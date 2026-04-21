@@ -33,3 +33,5 @@ Proprietary - XTP Technologies / Galalith Bioplastics
 *Updated: 2026-04-21 14:49:16.46* 
  
  
+ 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19686698.svg)](https://doi.org/10.5281/zenodo.19686698) 
